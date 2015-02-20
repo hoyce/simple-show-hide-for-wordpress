@@ -1,0 +1,16 @@
+.ssh-hide {
+  display: none;
+}
+
+.ssh-show {
+  display: block;
+}
+
+.ssh-answer {
+  margin: 4px 0 20px 0;
+}
+
+.ssh-question {
+  color: #10A0F1;
+  cursor: pointer;
+}
